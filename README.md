@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20build%20tech%20solutions%20for%20public%20service&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%"/>
 </div>
 
-### Hi there, I'm a Web Developer & IT Support! 👋
+### Hi there, I'm a Web Developer Enthusiast & IT Support! 👋
 
 Saya bekerja di sektor pemerintahan (**Kelurahan Mimbaan**), berfokus pada transformasi digital, pelayanan publik, dan pengelolaan sistem informasi. Saya suka membangun aplikasi yang efisien, rapi, dan bermanfaat bagi masyarakat.
 
