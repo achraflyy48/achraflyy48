@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20build%20tech%20solutions%20for%20public%20service&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%"/>
 </div>
 
-### Hi there, I'm a Web Developer Enthusiast & IT Support! 👋
+### Hi there, I'm a Web Developer & IT Support! 👋
 
 Saya bekerja di sektor pemerintahan (**Kelurahan Mimbaan**), berfokus pada transformasi digital, pelayanan publik, dan pengelolaan sistem informasi. Saya suka membangun aplikasi yang efisien, rapi, dan bermanfaat bagi masyarakat.
 
@@ -10,11 +10,11 @@ Saya bekerja di sektor pemerintahan (**Kelurahan Mimbaan**), berfokus pada trans
 
 ### 🛠️ Tech Stack & Tools
 
-Berikut adalah teknologi yang saya gunakan untuk membangun Website Profil Desa, Sistem Arsip, dan aplikasi layanan publik lainnya:
+Berikut adalah teknologi yang saya kuasai dan gunakan dalam pengembangan sistem:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
@@ -34,13 +34,13 @@ Berikut adalah teknologi yang saya gunakan untuk membangun Website Profil Desa, 
 
 ### 🚀 Featured Projects
 
-Beberapa proyek digitalisasi desa dan manajemen instansi yang telah saya kerjakan:
+Saat ini saya sedang fokus mengembangkan portal informasi digital desa:
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Website Profil Mimbaan** | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square) | Portal informasi desa modern, responsif, dan informatif untuk warga. |
-| **Sistem Arsip Digital** | ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) | Aplikasi pengelolaan dokumen internal instansi untuk efisiensi data. |
-| **Warga Lapor** | ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square) | Platform pengaduan dan aspirasi masyarakat (Public Service). |
+
+*> More projects coming soon...*
 
 ---
 
@@ -51,3 +51,5 @@ Beberapa proyek digitalisasi desa dan manajemen instansi yang telah saya kerjaka
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraflyy48&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
+
+---
