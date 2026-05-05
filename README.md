@@ -40,9 +40,9 @@ Saat ini saya sedang fokus mengembangkan portal informasi digital desa:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraflyy48&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=achraflyy48&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraflyy48&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achraflyy48&theme=tokyonight"/>
 </div>
 
 ---
