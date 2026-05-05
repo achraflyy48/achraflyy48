@@ -26,13 +26,13 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Event Webpage (HTML & CSS)
-Membuat landing page event dengan desain modern dan responsive  
-👉 https://github.com/achraflyy48/nama-repo-kamu
+### 🔹 Website Kelurahan Mimbaan (HTML, CSS, & JAVASCRIPT)
+Membuat website profil Kelurahan Mimbaan sebagai digitalisasi informasi wilayah  
+👉 https://mimbaan.situbondokab.go.id/
 
-### 🔹 Data Dashboard (Looker Studio)
-Analisis performa bisnis menggunakan data visualization  
-👉 https://github.com/achraflyy48/nama-repo-kamu
+### 🔹 Aplikasi SITTA Universitas Terbuka (HTML, CSS, & JAVASCRIPT)
+Membuat aplikasi untuk simulasi mahasiswa Universitas Terbuka dalam memesan Buku Modul.<br> 
+👉 https://achraflyy48.github.io/Aplikasi-SITTA-Universitas-Terbuka/
 
 ---
 
