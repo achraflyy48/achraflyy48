@@ -4,7 +4,7 @@
 
 ### Hi there, I'm a Frontend Developer & IT Support Enthusiast! 👋
 
-An active Information Systems student with an interest in web development. I'm currently in the process of learning and expanding my knowledge of the world of web development.<br> Let's connect and learn together to continue developing technology in the future.
+An active Information Systems student with an interest in Frontend Developer. I'm currently in the process of learning and expanding my knowledge of the world of Frontend Developer.<br> Let's connect and learn together to continue developing technology in the future.
 
 ---
 
