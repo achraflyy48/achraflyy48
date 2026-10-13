@@ -28,7 +28,7 @@
 
 ### 🔹 Website Kelurahan Mimbaan (HTML, CSS, & JAVASCRIPT)
 Membuat website profil Kelurahan Mimbaan sebagai digitalisasi informasi wilayah  
-👉 https://mimbaan.situbondokab.go.id/
+👉 https://achraflyy48.github.io/Website-Pemerintah-Kelurahan-Mimbaan/
 
 ### 🔹 Aplikasi SITTA Universitas Terbuka (HTML, CSS, & JAVASCRIPT)
 Membuat aplikasi untuk simulasi mahasiswa Universitas Terbuka dalam memesan Buku Modul.<br> 
