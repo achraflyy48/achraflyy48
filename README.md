@@ -30,9 +30,9 @@
 Membuat website profil Kelurahan Mimbaan sebagai digitalisasi informasi wilayah  
 👉 https://achraflyy48.github.io/Website-Pemerintah-Kelurahan-Mimbaan/
 
-### 🔹 Aplikasi SITTA Universitas Terbuka (HTML, CSS, & JAVASCRIPT)
-Membuat aplikasi untuk simulasi mahasiswa Universitas Terbuka dalam memesan Buku Modul.<br> 
-👉 https://achraflyy48.github.io/Aplikasi-SITTA-Universitas-Terbuka/
+### 🔹 Website TradiSea Cafe & Resto (HTML, CSS, & JAVASCRIPT)
+Membuat website profil bisnis yang bertujuan untuk branding sebuah bisnis.<br> 
+👉 https://tradisea.vercel.app/
 
 ### 🔹 Website Koperasi Merah Putih Mimbaan (HTML, CSS, & JAVASCRIPT)
 Membuat website pusat informasi kegiatan dan layanan yang disediakan oleh Koperasi Merah Putih Kelurahan Mimbaan, Jawa Timur. <br>
