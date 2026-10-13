@@ -25,6 +25,9 @@
 ---
 
 ## 📌 Featured Projects
+### 🔹 FINSET APP (Vue.js, HTML, CSS, & JAVASCRIPT)
+Membuat aplikasi berbasis web untuk mengelola keuangan pribadi  
+👉 https://finset-app-flax.vercel.app/login
 
 ### 🔹 Website Kelurahan Mimbaan (HTML, CSS, & JAVASCRIPT)
 Membuat website profil Kelurahan Mimbaan sebagai digitalisasi informasi wilayah  
