@@ -26,7 +26,7 @@
 
 ## 📌 Featured Projects
 ### 🔹 FINSET APP (Vue.js, HTML, CSS, & JAVASCRIPT)
-Membuat aplikasi berbasis web untuk mengelola keuangan pribadi  
+Aplikasi web manajemen keuangan pribadi yang modern, responsif, dan aman, dirancang untuk membantu pengguna mengontrol anggaran, memantau transaksi, serta mencapai tujuan finansial dengan mudah.  
 👉 https://finset-app-flax.vercel.app/login
 
 ### 🔹 Website Kelurahan Mimbaan (HTML, CSS, & JAVASCRIPT)
