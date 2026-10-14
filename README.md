@@ -8,12 +8,12 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Information Systems Student
-- 💻 Fokus belajar: Frontend Developer (Vue.js, HTML, CSS, JavaScript)
-- 📊 Punya pengalaman sebagai Web Developer & IT Support di Instansi Pemerintahan
-- 🌱 Sedang belajar: Vue.js & UI/UX Design
-- 🎯 Goal: Menjadi Frontend Developer profesional
+### 🚀 About Me
+
+- 🎓 Currently in my 7th semester pursuing a Bachelor's Degree in **Information Systems** at Universitas Terbuka.
+- 💻 Passionate about **Frontend Web Development**, UI/UX implementation, and building fast, responsive web applications.
+- 🎮 Enthusiastic about digital entertainment, top-up platforms, and interactive web experiences.
+- 🎯 Goal: Crafting clean, user-friendly, and accessible interfaces that deliver seamless user experiences.
 
 ---
 
