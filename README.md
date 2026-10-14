@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 Information Systems Student
-- 💻 Fokus belajar: Frontend Developer (HTML, CSS, JavaScript)
+- 💻 Fokus belajar: Frontend Developer (Vue.js, HTML, CSS, JavaScript)
 - 📊 Punya pengalaman sebagai Web Developer & IT Support di Instansi Pemerintahan
 - 🌱 Sedang belajar: Vue.js & UI/UX Design
 - 🎯 Goal: Menjadi Frontend Developer profesional
